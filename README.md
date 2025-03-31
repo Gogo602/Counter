@@ -63,7 +63,7 @@ This React application is a simple counter that allows users to increment or dec
 1.  Start the development server:
 
     ```bash
-    npm start
+    npm run dev
     ```
 
 2.  Open your browser and navigate to `http://localhost:<portNumber>` to view the application.
